@@ -1,5 +1,5 @@
 # Algorithm_study
-알고리즘 공부한 것 담는 repository
-2022-2학기 아주대학교 wondim 교수님의 수업을 요약한 내용입니다.
-주교재 : Foundations of Algorithms -Richard Neapolitan | Jones & Bartlett Publishers - 5th edition
-부교재 : Introduction to the design & analysis of algorithms - Anany Levitin - 3rd edition
+알고리즘 공부한 것 담는 repository  
+2022-2학기 아주대학교 wondim 교수님의 수업을 요약한 내용입니다.  
+주교재 : Foundations of Algorithms -Richard Neapolitan | Jones & Bartlett Publishers - 5th edition  
+부교재 : Introduction to the design & analysis of algorithms - Anany Levitin - 3rd edition  
